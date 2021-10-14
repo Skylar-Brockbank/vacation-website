@@ -4,6 +4,7 @@
 
 body {
   background-image: linear-gradient(rgb(0, 0, 12), rgb(0, 0, 27), rgb(0, 0, 27), rgb(37, 61, 97));
+  /* overflow: scroll; */
 }
 
 .glass {
