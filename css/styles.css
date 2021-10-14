@@ -1,0 +1,25 @@
+.Thing {
+  background-color: rgb(201, 195, 195);
+}
+
+body {
+  background-image: linear-gradient(rgb(0, 0, 12), rgb(0, 0, 27), rgb(0, 0, 27), rgb(37, 61, 97));
+}
+
+.glass {
+  background-color: rgba(218, 218, 218, 0.562);
+  margin: 1em auto;
+  padding: 1em;
+  border-radius: .125em;
+  width: 90%;
+}
+.frosted {
+  color: rgba(214, 214, 214, 0.637);
+}
+
+.moon {
+  background-image: url(../images/moon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(218, 218, 218, 0.219);
+}
