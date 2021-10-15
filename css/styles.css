@@ -13,9 +13,14 @@ body {
   padding: 1em;
   border-radius: .125em;
   width: 90%;
+  
 }
 .frosted {
-  color: rgba(214, 214, 214, 0.637);
+  background-color: rgba(214, 214, 214, 0.336);
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding:auto;
 }
 
 .moon {
@@ -23,4 +28,6 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgba(218, 218, 218, 0.219);
+  display: flex;
+  align-items: center;
 }
